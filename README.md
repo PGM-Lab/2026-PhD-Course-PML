@@ -10,10 +10,10 @@ A free online version is available here:
 
 📌 Python & Numpy: Some familiarity with Python is also expected. You can use following two Google Colab notebooks to help you get comfortable with [Python](https://colab.research.google.com/drive/1As4S1yZVb3XDmPDsD-HW2PWsWCIaSsrX) and [NumPy](https://colab.research.google.com/drive/1As4077A4jO10qwNARTrJwhydVvJFnofj).
 
-## Day 1
+## Day 1 (March 11, 09:00 - 16:30)
 
 
 
 
-## Day 2
+## Day 2 (March 12, 08:30 - 16:00)
 
