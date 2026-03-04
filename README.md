@@ -9,3 +9,11 @@ A free online version is available here:
 🔗 [PML Book](https://probml.github.io/pml-book/book1.html)
 
 📌 Python & Numpy: Some familiarity with Python is also expected. You can use following two Google Colab notebooks to help you get comfortable with [Python](https://colab.research.google.com/drive/1As4S1yZVb3XDmPDsD-HW2PWsWCIaSsrX) and [NumPy](https://colab.research.google.com/drive/1As4077A4jO10qwNARTrJwhydVvJFnofj).
+
+## Day 1
+
+
+
+
+## Day 2
+
