@@ -37,3 +37,9 @@ A free online version is available here:
 * Notebook: [students_VAE](https://colab.research.google.com/github/PGM-Lab/2026-PhD-Course-PML/blob/main/Day2-AfterLunch/notebooks/students_VAE.ipynb)
 * Notebook: [solutions_VAE](https://colab.research.google.com/github/PGM-Lab/2026-PhD-Course-PML/blob/main/Day2-AfterLunch/notebooks/solutions_VAE.ipynb)
 
+
+## Assignment
+
+Students are required to apply probabilistic machine learning to a real-world dataset of their choice, designing and implementing a probabilistic model in Pyro and evaluating the results. **Deadline: 30 April 2026.**
+
+📄 [Assignment description](https://github.com/PGM-Lab/2026-PhD-Course-PML/raw/main/Assignment/assignment.pdf)
