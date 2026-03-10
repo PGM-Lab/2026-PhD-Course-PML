@@ -11,10 +11,23 @@ A free online version is available here:
 📌 Python & Numpy: Some familiarity with Python is also expected. You can use following two Google Colab notebooks to help you get comfortable with [Python](https://colab.research.google.com/drive/1As4S1yZVb3XDmPDsD-HW2PWsWCIaSsrX) and [NumPy](https://colab.research.google.com/drive/1As4077A4jO10qwNARTrJwhydVvJFnofj).
 
 ## Day 1
-* [Slides](https://github.com/PGM-Lab/2026-PhD-Course-PML/raw/main/Day1/Main_Day1.pdf)
-* Notebook: [Bayesian_Network_Example](https://colab.research.google.com/github/PGM-Lab/2026-PhD-Course-PML/blob/main/Day1/notebooks/bn_example.ipynb)
-* Notebook: [students_PPLs_Intro](https://colab.research.google.com/github/PGM-Lab/2026-PhD-Course-PML/blob/main/Day1/notebooks/students_PPLs_Intro.ipynb)
-* Notebook: [solutions_PPLs_Intro](https://colab.research.google.com/github/PGM-Lab/2026-PhD-Course-PML/blob/main/Day1/notebooks/solutions_PPLs_Intro.ipynb)
+
+### Block 0: Introduction & Assignment
+* [Slides](https://github.com/PGM-Lab/2026-PhD-Course-PML/raw/main/Day1/slides_assignment.pdf)
+
+### Block 1: Probabilistic Regression
+* [Slides](https://github.com/PGM-Lab/2026-PhD-Course-PML/raw/main/Day1/block1_part1_intro_and_regression.pdf)
+* Notebook: [01_probabilistic_linear_regression](https://colab.research.google.com/github/PGM-Lab/2026-PhD-Course-PML/blob/main/Day1/notebooks/01_probabilistic_linear_regression.ipynb)
+* Notebook: [02_nonlinear_regression](https://colab.research.google.com/github/PGM-Lab/2026-PhD-Course-PML/blob/main/Day1/notebooks/02_nonlinear_regression.ipynb)
+
+### Block 2: Probabilistic Classification
+* [Slides](https://github.com/PGM-Lab/2026-PhD-Course-PML/raw/main/Day1/block2-slides/block2_classification.pdf)
+* Notebook: [03_probabilistic_classification](https://colab.research.google.com/github/PGM-Lab/2026-PhD-Course-PML/blob/main/Day1/notebooks/03_probabilistic_classification.ipynb)
+* Notebook: [04_neural_classifier](https://colab.research.google.com/github/PGM-Lab/2026-PhD-Course-PML/blob/main/Day1/notebooks/04_neural_classifier.ipynb)
+
+### Block 3: Clustering
+* [Slides](https://github.com/PGM-Lab/2026-PhD-Course-PML/raw/main/Day1/block3-slides/block3_clustering.pdf)
+* Notebook: [05_gmm_clustering](https://colab.research.google.com/github/PGM-Lab/2026-PhD-Course-PML/blob/main/Day1/notebooks/05_gmm_clustering.ipynb)
 
 
 ## Day 2 - Before Lunch 
