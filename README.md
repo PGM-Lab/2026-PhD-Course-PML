@@ -21,12 +21,12 @@ A free online version is available here:
 * Notebook: [02_nonlinear_regression](https://colab.research.google.com/github/PGM-Lab/2026-PhD-Course-PML/blob/main/Day1/notebooks/02_nonlinear_regression.ipynb)
 
 ### Block 2: Probabilistic Classification
-* [Slides](https://github.com/PGM-Lab/2026-PhD-Course-PML/raw/main/Day1/block2-slides/block2_classification.pdf)
+* [Slides](https://github.com/PGM-Lab/2026-PhD-Course-PML/raw/main/Day1/block2_classification.pdf)
 * Notebook: [03_probabilistic_classification](https://colab.research.google.com/github/PGM-Lab/2026-PhD-Course-PML/blob/main/Day1/notebooks/03_probabilistic_classification.ipynb)
 * Notebook: [04_neural_classifier](https://colab.research.google.com/github/PGM-Lab/2026-PhD-Course-PML/blob/main/Day1/notebooks/04_neural_classifier.ipynb)
 
 ### Block 3: Clustering
-* [Slides](https://github.com/PGM-Lab/2026-PhD-Course-PML/raw/main/Day1/block3-slides/block3_clustering.pdf)
+* [Slides](https://github.com/PGM-Lab/2026-PhD-Course-PML/raw/main/Day1/block3_clustering.pdf)
 * Notebook: [05_gmm_clustering](https://colab.research.google.com/github/PGM-Lab/2026-PhD-Course-PML/blob/main/Day1/notebooks/05_gmm_clustering.ipynb)
 
 
